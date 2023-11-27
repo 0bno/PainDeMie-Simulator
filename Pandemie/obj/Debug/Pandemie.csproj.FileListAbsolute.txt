@@ -1,0 +1,56 @@
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\obj\Debug\Pandemie.csprojAssemblyReference.cache
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\obj\Debug\Pandemie.Properties.Resources.resources
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\obj\Debug\Pandemie.Resource1.resources
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.GenerateResource.cache
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.CoreCompileInputs.cache
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\obj\Debug\Pandemie.Form1.resources
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\bin\Debug\Pandemie.exe.config
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\bin\Debug\Pandemie.exe
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\bin\Debug\Pandemie.pdb
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\bin\Debug\ClassLibrary1.dll
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\bin\Debug\ClassLibrary1.pdb
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.CopyComplete
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\obj\Debug\Pandemie.exe
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\obj\Debug\Pandemie.pdb
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\bin\Debug\Pandemie.exe.config
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\bin\Debug\Pandemie.exe
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\bin\Debug\Pandemie.pdb
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\bin\Debug\ClassLibrary1.dll
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\bin\Debug\ClassLibrary1.pdb
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\obj\Debug\Pandemie.csprojAssemblyReference.cache
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\obj\Debug\Pandemie.Form1.resources
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\obj\Debug\Pandemie.Properties.Resources.resources
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\obj\Debug\Pandemie.Resource1.resources
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.GenerateResource.cache
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.CoreCompileInputs.cache
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.CopyComplete
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\obj\Debug\Pandemie.exe
+C:\Users\Yannis\source\repos\Pandemie\Pandemie\Pandemie\obj\Debug\Pandemie.pdb
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\bin\Debug\Pandemie.exe.config
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\bin\Debug\Pandemie.exe
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\bin\Debug\Pandemie.pdb
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\bin\Debug\ClassLibrary1.dll
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\bin\Debug\ClassLibrary1.pdb
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\obj\Debug\Pandemie.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\obj\Debug\Pandemie.Form1.resources
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\obj\Debug\Pandemie.Properties.Resources.resources
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\obj\Debug\Pandemie.Resource1.resources
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.GenerateResource.cache
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.CoreCompileInputs.cache
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.CopyComplete
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\obj\Debug\Pandemie.exe
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN\Pandemie\Pandemie\obj\Debug\Pandemie.pdb
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\bin\Debug\Pandemie.exe.config
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\bin\Debug\Pandemie.exe
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\bin\Debug\Pandemie.pdb
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\bin\Debug\ClassLibrary1.dll
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\bin\Debug\ClassLibrary1.pdb
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\obj\Debug\Pandemie.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\obj\Debug\Pandemie.Form1.resources
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\obj\Debug\Pandemie.Properties.Resources.resources
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\obj\Debug\Pandemie.Resource1.resources
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.GenerateResource.cache
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.CoreCompileInputs.cache
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\obj\Debug\Pandemie.csproj.CopyComplete
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\obj\Debug\Pandemie.exe
+C:\Users\Julien\Desktop\Projet C#++\C#_200420\YESMYMAN - Copie\Pandemie\Pandemie\obj\Debug\Pandemie.pdb
